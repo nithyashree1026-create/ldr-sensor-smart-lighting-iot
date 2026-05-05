@@ -55,4 +55,4 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 Integration with AI and IoT platforms can enable predictive lighting and energy optimization systems.
 ## ✨ Conclusion
 The LDR sensor is a simple yet effective component for detecting light intensity. When combined with ESP32, it enables smart, automated, and energy-efficient IoT solutions.
-
+💡 *Detect light. Save energy. Build smart systems.*
