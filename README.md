@@ -47,3 +47,5 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 * Less accurate compared to photodiodes  
 * Affected by temperature variations  
 ## 🚀 Advanced Applications
+* Adaptive brightness control  
+* Solar tracking systems  
