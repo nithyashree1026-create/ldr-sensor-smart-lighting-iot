@@ -19,3 +19,4 @@ LDR is typically used in a voltage divider configuration.
 ### 🔹 Setup:
 * LDR connected with fixed resistor  
 * Output voltage taken from junction  
+### 🔹 Insight:
