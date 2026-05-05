@@ -36,3 +36,4 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 * Smart home lighting  
 * Energy-saving systems  
 * Light-based alarms  
+## 🧩 Design Considerations
