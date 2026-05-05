@@ -38,3 +38,4 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 * Light-based alarms  
 ## 🧩 Design Considerations
 ### 🔹 Important Points:
+* Proper resistor selection in voltage divider  
