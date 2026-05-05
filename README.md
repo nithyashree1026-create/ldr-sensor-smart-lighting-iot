@@ -52,4 +52,5 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 * Smart agriculture monitoring  
 * Intelligent lighting systems  
 ## 🔮 Future Scope
+Integration with AI and IoT platforms can enable predictive lighting and energy optimization systems.
 
