@@ -42,3 +42,4 @@ Using Wi-Fi capability of ESP32, light data can be monitored and used for automa
 * Avoid direct intense light exposure  
 * Calibrate threshold values  
 * Use filtering for stable readings  
+## ⚠️ Limitations
