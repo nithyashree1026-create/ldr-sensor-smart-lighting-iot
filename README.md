@@ -17,3 +17,5 @@ LDR is not a digital sensor; it provides analog output.
 ## 🔌 Circuit Design (Voltage Divider)
 LDR is typically used in a voltage divider configuration.
 ### 🔹 Setup:
+* LDR connected with fixed resistor  
+* Output voltage taken from junction  
