@@ -31,3 +31,4 @@ ESP32 reads analog voltage from LDR using ADC pins.
 * Decision logic is applied  
 ## 🌐 IoT Integration
 Using Wi-Fi capability of ESP32, light data can be monitored and used for automation.
+### 🔹 Applications:
