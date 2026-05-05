@@ -16,3 +16,4 @@ LDR is not a digital sensor; it provides analog output.
 * Sensitive to visible light spectrum  
 ## 🔌 Circuit Design (Voltage Divider)
 LDR is typically used in a voltage divider configuration.
+### 🔹 Setup:
