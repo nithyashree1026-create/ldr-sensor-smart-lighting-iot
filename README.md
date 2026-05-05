@@ -10,3 +10,7 @@ When light photons strike the surface of the LDR, electrons gain energy and move
 * Low light intensity → High resistance  
 ## ⚙️ Electrical Characteristics
 LDR is not a digital sensor; it provides analog output.
+### 🔹 Key Properties:
+* Resistance range: KΩ to MΩ  
+* Slow response time compared to photodiodes  
+* Sensitive to visible light spectrum  
