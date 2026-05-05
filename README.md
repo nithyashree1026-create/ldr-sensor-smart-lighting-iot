@@ -9,3 +9,4 @@ When light photons strike the surface of the LDR, electrons gain energy and move
 * High light intensity → Low resistance  
 * Low light intensity → High resistance  
 ## ⚙️ Electrical Characteristics
+LDR is not a digital sensor; it provides analog output.
