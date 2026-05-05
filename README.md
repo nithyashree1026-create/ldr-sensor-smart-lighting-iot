@@ -22,3 +22,5 @@ LDR is typically used in a voltage divider configuration.
 ### 🔹 Insight:
 Output voltage varies based on light intensity and can be read using ADC of ESP32.
 ## 📡 ESP32 Interfacing
+ESP32 reads analog voltage from LDR using ADC pins.
+### 🔹 Flow:
