@@ -8,3 +8,4 @@ When light photons strike the surface of the LDR, electrons gain energy and move
 ### 🔹 Behavior:
 * High light intensity → Low resistance  
 * Low light intensity → High resistance  
+## ⚙️ Electrical Characteristics
