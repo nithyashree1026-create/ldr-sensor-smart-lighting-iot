@@ -20,3 +20,4 @@ LDR is typically used in a voltage divider configuration.
 * LDR connected with fixed resistor  
 * Output voltage taken from junction  
 ### 🔹 Insight:
+Output voltage varies based on light intensity and can be read using ADC of ESP32.
