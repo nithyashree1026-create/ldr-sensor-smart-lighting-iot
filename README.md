@@ -24,3 +24,8 @@ Output voltage varies based on light intensity and can be read using ADC of ESP3
 ## 📡 ESP32 Interfacing
 ESP32 reads analog voltage from LDR using ADC pins.
 ### 🔹 Flow:
+* Light intensity changes  
+* LDR resistance changes  
+* Voltage varies  
+* ESP32 ADC reads value  
+* Decision logic is applied  
