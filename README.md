@@ -29,3 +29,4 @@ ESP32 reads analog voltage from LDR using ADC pins.
 * Voltage varies  
 * ESP32 ADC reads value  
 * Decision logic is applied  
+## 🌐 IoT Integration
