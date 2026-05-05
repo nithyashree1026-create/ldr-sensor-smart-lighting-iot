@@ -14,3 +14,4 @@ LDR is not a digital sensor; it provides analog output.
 * Resistance range: KΩ to MΩ  
 * Slow response time compared to photodiodes  
 * Sensitive to visible light spectrum  
+## 🔌 Circuit Design (Voltage Divider)
