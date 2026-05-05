@@ -6,3 +6,5 @@ This repository explores the working principle, electrical characteristics, circ
 An LDR operates based on **photoconductivity**.
 When light photons strike the surface of the LDR, electrons gain energy and move into the conduction band, reducing resistance.
 ### 🔹 Behavior:
+* High light intensity → Low resistance  
+* Low light intensity → High resistance  
